@@ -24,7 +24,7 @@ Node.js (version 14 or higher)
 npm (or yarn) package manager
 Installation:
 Bash
-git clone https://github.com/your-username/Discord-Clone.git
+git clone https://github.com/achintyashende/Discord-Clone.git
 
 Access: The project will be accessible at http://localhost:5174.
 
